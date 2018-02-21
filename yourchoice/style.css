@@ -1,0 +1,59 @@
+.top-background {
+  background-color: #232323;
+  padding-top: 30px;
+}
+
+.ui.floated.left.image {
+  background-color: #232323;
+}
+
+.ui.grid {
+  background-color: #232323;
+}
+
+.ui.borderless.menu .item {
+  color: white;
+  background-color: #232323;
+  border: none;
+  box-shadow: none;
+}
+
+.ui.block.header.container {
+  background-color: black;
+  margin-top: 60px;
+  color: #80def5;
+}
+
+.ui.header.container {
+  color: #666666;
+}
+
+.ui.about.container {
+  font-size: 1.1em;
+  line-height: 2em;
+  color: #666666;
+}
+
+.ui.basic.center.aligned.bold.segment {
+  font-size: 1.1em;
+  line-height: 2em;
+  font-weight: bold;
+  color: #666666;
+}
+
+.ui.basic.center.aligned.segment {
+  font-size: 1.1em;
+  line-height: 2em;
+  color: #666666;
+}
+
+.ui.button.container {
+ margin-bottom: 30px;
+}
+
+.footer-background {
+  background-color: #232323;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #919191;
+}
